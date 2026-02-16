@@ -11,4 +11,4 @@ echo "Ajout script mv,"
 echo "Ajout script rm,"
 echo "Ajout script rm -rf"
 echo "Ajout ls -la . .. /boot"
-
+echo "Ajout file /tmp/iamafile"
