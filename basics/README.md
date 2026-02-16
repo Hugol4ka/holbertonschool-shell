@@ -1,17 +1,4 @@
 ##unreleased
 #!/bin/bash
-echo "TEST Ajout d'un script pwd,"
-echo "Ajout script ls,"
-echo "Ajout script cd,"
-echo "Ajout script ls -l"
-echo "Ajout script ls -la,"
-echo "Ajout script ls -lna,"
-echo "Ajout script mkdir,"
-echo "Ajout script mv,"
-echo "Ajout script rm,"
-echo "Ajout script rm -rf"
-echo "Ajout script ls -la . .. /boot"
-echo "Ajout script file /tmp/iamafile"
-echo "Ajout script cp -u *.html .."
-echo "Ajout script [A-Z]* /tmp/u"
-echo "Ajout script rm *~"
+echo -e "# holbertonschool-shell\n\nProjet sur les bases du shell.\n\nChaque script contient deux lignes :\n- Le shebang\n- La commande demandée" > README.md
+
