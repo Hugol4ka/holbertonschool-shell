@@ -1,6 +1,7 @@
 ##unreleased
+#!/bin/bash
 echo "TEST Ajout d'un script pwd,"
-echo "Ajout scipt ls,"
+echo "Ajout script ls,"
 echo "Ajout script cd,"
 echo "Ajout script ls -l"
 echo "Ajout script ls -la,"
@@ -10,3 +11,4 @@ echo "Ajout script mv,"
 echo "Ajout script rm,"
 echo "Ajout script rm -rf"
 echo "Ajout ls -la . .. /boot"
+
