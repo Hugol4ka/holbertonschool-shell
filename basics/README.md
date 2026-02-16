@@ -1,12 +1,12 @@
 ##unreleased
-TEST Ajout d'un script pwd,/n
-Ajout scipt ls,/n
-Ajout script cd,/n
-Ajout script ls -l/n,
-Ajout script ls -la,/n
-Ajout script ls -lna,/n
-Ajour script mkdir,/n
-Ajout script mv,/n
-Ajout script rm,/n
-
-
+echo "TEST Ajout d'un script pwd,"
+echo "Ajout scipt ls,"
+echo "Ajout script cd,"
+echo "Ajout script ls -l"
+echo "Ajout script ls -la,"
+echo "Ajout script ls -lna,"
+echo "Ajout script mkdir,"
+echo "Ajout script mv,"
+echo "Ajout script rm,"
+echo "Ajout script rm -rf"
+echo "Ajout ls -la . .. /boot"
