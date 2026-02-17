@@ -15,7 +15,7 @@
 13-Ajout d'un script afin de changer le group du fichier    
 14-Ajout d'un script afin de changer le nom des owners et ownersgroup  
 15-Ajout d'un script pour changer le propriétaire de la cible du lien symbolique et owner  
-16-Ajour d'un script conditionnel "--from="  
+16-Ajout d'un script conditionnel "--from="  
 
   
 
